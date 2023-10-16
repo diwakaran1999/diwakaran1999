@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diwakaran Agrawal</h1>
-<h3 align="center">A fourth year B.Tech Student.</h3>
+<h3 align="center">A fourth year B.Tech Student</h3>
 <img align="right" alt = "Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diwakaran1999&label=Profile%20views&color=0e75b6&style=flat" alt="diwakaran1999" /> </p>
